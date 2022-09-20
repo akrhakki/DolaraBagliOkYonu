@@ -13,6 +13,8 @@ public class main {
 		else if (dolarBugun>dolarDun) {
 			okYonu="up.svg";
 			System.out.println(okYonu);
+			
+			
 		}
 		else {
 			okYonu="equal.svg";
